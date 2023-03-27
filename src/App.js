@@ -1,4 +1,5 @@
 import CompleteSearch from "./components/totalsearch/compsearch";
+import FlightApi from "./components/cardapi/cardapi";
 
 function App() {
   return ( 
@@ -7,6 +8,7 @@ function App() {
   <div>hello</div>
   <div>testing</div>
   <CompleteSearch />
+  {/* <FlightApi />  */}
    </div>
   )
 }
