@@ -8,7 +8,7 @@ function App() {
   <div>hello</div>
   <div>testing</div>
   <CompleteSearch />
-  {/* <FlightApi />  */}
+  <FlightApi />
    </div>
   )
 }
