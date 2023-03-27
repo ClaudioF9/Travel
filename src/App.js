@@ -1,5 +1,5 @@
-import FlightCard from "./components/flightcard/flightcard";
-import Search from "./components/search/search";
+import CompleteSearch from "./components/totalsearch/compsearch";
+import FlightApi from "./components/cardapi/cardapi";
 
 function App() {
   return ( 
@@ -7,11 +7,10 @@ function App() {
       <h1>Mega</h1>
   <div>hello</div>
   <div>testing</div>
-  <Search />
-  <FlightCard />
+  <CompleteSearch />
+  {/* <FlightApi />  */}
    </div>
   )
 }
-
 
 export default App;
