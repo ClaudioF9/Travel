@@ -4,10 +4,11 @@ import CompleteSearch from "./components/totalsearch/compsearch";
 
 
 function App() {
-  return (
-  <div>
-    <CompleteSearch />
-  </div>
+  return ( 
+    <div>
+  <CompleteSearch />
+
+   </div>
   )
 }
 
