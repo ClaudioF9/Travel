@@ -5,6 +5,7 @@
     background-position: center center;
     background-size: cover;
     
+    
 }
 
 .stupid{
@@ -19,11 +20,23 @@
     margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 5px;
+    padding-bottom: 20px;
 }
 
-.button{
-    margin-top: 20px;
-    color: black;
-    border-color: black;
+.buttonboi{
+    margin-top: 20px !important;
+    border: solid black 1px !important;
+    padding-top: 20px;
+    color: white !important;
+    background-color: black !important;
+    font-family: sans-serif;
 
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+.clocky{
+    border: black !important;
 }
